@@ -1,0 +1,12 @@
+/tesseract-4.1.1
+/Tesseract-OCR
+/build
+/AuxalitySummerUpper
+AuxalitySummerUpper.zip
+dist.zip
+Tesseract-OCR.zip
+/__pycache__
+/dist/
+somefile.png
+somefile2.png
+test.spec
